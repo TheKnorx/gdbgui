@@ -192,7 +192,7 @@ td.assembly {
   color: #489ce4;
 }
 .asm-other {
-  color: inherit; /* leave neutral, or customize if you want memory refs distinct */
+  color: inherit;
 }
 .asm-address {
   color: #489ce4;
